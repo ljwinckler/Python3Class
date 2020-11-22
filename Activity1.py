@@ -1,4 +1,4 @@
 print("Lauren")
-print("this is one line")
-print("this is another line")
-print("this is the last line")
+print("This is one line")
+print("This is another line")
+print("This is the last line")
